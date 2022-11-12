@@ -46,14 +46,6 @@ Click the `Help` menu and select `Check for Updates…`. Press the `Add` button 
 
 You find all releases and release information [here](https://github.com/Trivadis/plsql-unwrapper-sqldev/releases).
 
-## Issues
-Please file your bug reports, enhancement requests, questions and other support requests within [Github's issue tracker](https://help.github.com/articles/about-issues/).
-
-* [Questions](https://github.com/trivadis/plsql-unwrapper-sqldev/issues?q=is%3Aissue+label%3Aquestion)
-* [Open enhancements](https://github.com/trivadis/plsql-unwrapper-sqldev/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
-* [Open bugs](https://github.com/trivadis/plsql-unwrapper-sqldev/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
-* [Submit new issue](https://github.com/trivadis/plsql-unwrapper-sqldev/issues/new)
-
 ## Frequently Asked Questions
 
 see [Frequently Ased Questions](FAQ.md).
